@@ -1,4 +1,4 @@
-# Meu Meu repositório de estudos - Lógica de Programação - Dio.me
+# Meu repositório de estudos - Lógica de Programação - Dio.me
 
 ## Objetivos do curso:
 
