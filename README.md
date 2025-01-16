@@ -10,7 +10,7 @@
 
 4. Dominando estruturas de controle, if/else e switch/case [ x ];
 
-5. Dominando laços de repetição [ ];
+5. Dominando laços de repetição [ X ];
 
 6. Trabalhando com funções [ ];
 
