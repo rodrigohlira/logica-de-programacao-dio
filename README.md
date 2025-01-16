@@ -8,7 +8,7 @@
 
 3. Trabalhar com operadores aritiméticos, lógicos e comparação [ x ];
 
-4. Dominando estruturas de controle, if/elese e switch/case [ x ];
+4. Dominando estruturas de controle, if/else e switch/case [ x ];
 
 5. Dominando laços de repetição [ ];
 
