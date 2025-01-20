@@ -12,7 +12,7 @@
 
 5. Dominando laços de repetição [ X ];
 
-6. Trabalhando com funções [ ];
+6. Trabalhando com funções [ X ];
 
 7. Estrutura de dados e objetos [ ];
 
