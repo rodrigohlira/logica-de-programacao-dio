@@ -14,5 +14,5 @@
 
 6. Trabalhando com funções [ X ];
 
-7. Estrutura de dados e objetos [ ];
+7. Estrutura de dados e objetos [ X ];
 
